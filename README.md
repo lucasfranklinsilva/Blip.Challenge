@@ -22,7 +22,7 @@ A API foi publicada no Serviço de Aplicado da Azure e está documentada no *Swa
 
 ## Pastas e Arquivos
 ```
-Take.Challenge
+Blip.Challenge
 |── Api
 |── Flow
 |    └─ mybotflow.json
@@ -52,7 +52,7 @@ The API has been published on Azure Applied Service and is documented in *Swagge
 
 ## Folders and Files
 ```
-Take.Challenge
+Blip.Challenge
 |── API
 |── Flow
 |    └─ mybotflow.json
